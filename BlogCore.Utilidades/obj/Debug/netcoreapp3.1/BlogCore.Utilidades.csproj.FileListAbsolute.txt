@@ -1,0 +1,53 @@
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\asp .core\BlogCore\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\asp .core\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\copia del trabajo 14-9-20\14-09-20 7,22pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20 8,11 pm\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.deps.json
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\bin\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csprojAssemblyReference.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.dll
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.pdb
+C:\Users\vilgana\Desktop\Asp.Net Core 3.1\15-9-20\16-9-20\hoy bueno\BlogCore - copia\BlogCore.Utilidades\obj\Debug\netcoreapp3.1\BlogCore.Utilidades.csproj.CoreCompileInputs.cache

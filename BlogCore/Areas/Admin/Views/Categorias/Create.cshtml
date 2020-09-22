@@ -1,0 +1,53 @@
+﻿@model BlogCore.Models.Categoria 
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br/>
+<br />
+<h3 class="text-center">Crear una nueva Categoria</h3>
+@*aqui le pasa el metodo de tipo Post*@
+<form method="post" asp-action="Create">
+    <div class="row px-2 mx-2 border">
+        @*Validacion de los Campos requeridos con un danger*@
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <div class="col-10 offset-1 mt-4">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Nombre"></label>
+                </div>
+                <div class="col-8">
+                    @*la propiedad nombre con respecto al modelo*@
+                    <input asp-for="Nombre" class="form-control" />
+                    @*span nos ayuda a la Validacion*@
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="Orden"></label>
+                </div>
+                <div class="col-8">
+                    @*la propiedad nombre con respecto al modelo*@
+                    <input asp-for="Orden" class="form-control" />
+                    @*span nos ayuda a la Validacion*@
+                    <span asp-validation-for="Orden" class="text-danger"></span>
+                </div>
+
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    @*Craemos una Vista Parecial _VistaCrearVolver en la carpeta Shared y la Instaciamos aca*@
+                    <partial name="_VistaCrearVolver" />
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</form>
+

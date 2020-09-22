@@ -1,0 +1,99 @@
+﻿@model BlogCore.Acceso.ViewModels.ArticuloVM
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Crear un Nuevo Articulo</h3>
+@*aqui le pasa el metodo de tipo Post*@
+<form method="post" asp-action="Create" enctype="multipart/form-data">
+    @*Para refenciarmultiplataforma de Data entype@
+        <div class="row px-2 mx-2 border">
+            @*Validacion de los Campos requeridos con un danger*@
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="col-10 offset-1 mt-4">
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Articulo.Nombre"></label>
+            </div>
+            <div class="col-8">
+                @*la propiedad nombre con respecto al modelo*@
+                <input asp-for="Articulo.Nombre" class="form-control" />
+                @*span nos ayuda a la Validacion*@
+                <span asp-validation-for="Articulo.Nombre" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Articulo.Descripcion"></label>
+            </div>
+            <div class="col-8">
+                @*la propiedad nombre con respecto al modelo*@
+                <textarea asp-for="Articulo.Descripcion" class="form-control"></textarea>
+                @*span nos ayuda a la Validacion
+        <span asp-validation-for="Articulo.Descripcion" class="text-danger"></span>*@
+            </div>
+
+        </div>
+
+      
+
+
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Articulo.CategoriaId"></label>
+            </div>
+            <div class="col-8">
+                @Html.DropDownListFor(m => m.Articulo.CategoriaId, Model.ListaCategoria,
+               "-porfavor seleccione una Categoria-", new { @class = "form-control" })
+
+            </div>
+
+        </div>
+
+
+        @* Aquie es para las Imagenes*@
+        <div class="form-group row">
+            <div class="col-4">
+                <label asp-for="Articulo.UrlImagen"></label>
+            </div>
+            <div class="col-8">
+                <input type="file" name="archivos" id="subidaArchivo" class="form-control" />
+            </div>
+        </div>
+
+
+
+
+
+        <div class="form-group row">
+            <div class="col-8 offset-4">
+                @*Craemos una Vista Parecial _VistaCrearVolver en la carpeta Shared y la Instaciamos aca*@
+                <partial name="_VistaCrearVolver" />
+            </div>
+        </div>
+
+    </div>
+
+
+</form>
+
+@*Este Escrip es de registro en tiny.Cloud clave personalizada*@
+@section Scripts{
+
+    <script src="https://cdn.tiny.cloud/1/7qnr61q05paqycsbese5cozl4te03pwimws5l5cwga8zlw2u/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+
+
+    <script>
+        tinymce.init({
+            selector: 'textarea', //Tarea se la Colocamos al CAMPO descripcio
+            plugins: 'lists',
+            menubar: 'file edit format',
+           
+        });
+    </script>
+}

@@ -1,0 +1,68 @@
+﻿@model BlogCore.Models.Categoria
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<br />
+<br />
+<h3 class="text-center">Editar Categoria</h3>
+<form method="post" asp-action="Edit">
+    @*tipo de metodo de vuelto*@
+
+    <div class="row px-2 mx-2 border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div> @*Validacion del modelo*@
+        <input type="hidden" asp-for="Id" /> @*Como vamos editar la categoria es necesario mandar el Id en un imput oculto*@
+
+        <div class="col-10 offset-1 mt-4">
+
+            <div class="form-group row">
+
+                <div class="col-4">
+                    @*Tamaño de label*@
+                    <label asp-for="Nombre"></label>
+                </div>
+                <div class="col-8">
+                    @*Tamaño del impul y spant*@
+                    <input asp-for="Nombre" class="form-control" />  @*Input Validacion del modelo Nombre*@
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+
+                <div class="col-4">
+                    @*Tamaño de label*@
+                    <label asp-for="Orden"></label>
+                </div>
+                <div class="col-8">
+                    @*Tamaño del impul y spant*@
+                    <input asp-for="Orden" class="form-control" />  @*Input Validacion del modelo Nombre*@
+                    <span asp-validation-for="Orden" class="text-danger"></span>
+                </div>
+            </div>
+
+
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    <div class="row">
+                        <div class="col">
+                            <button type="submit" class="btn btn-primary form-control" asp-route-id="@Model.Id">Actualiza</button>@*Con la propiedad asp-route-id="@Model.Id" enviamos el Id*@
+                       
+                        </div>
+                        <div class="col">
+                            <a asp-action="Index" class="btn btn-success form-control">Volver a Listar</a>  @*Boton volver al index*@
+                        </div>
+                    </div>
+                    
+                </div>
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+</form>
